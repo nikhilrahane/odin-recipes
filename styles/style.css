@@ -1,0 +1,22 @@
+.recipe{
+       font-style: italic;
+}
+
+
+h1{
+ background-color: violet;
+ font-weight: lighter;
+}
+
+.try{
+       background-color: blue;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#ing {
+ background-color: brown;
+}
+
+#para{
+       background-color: pink;
+}
