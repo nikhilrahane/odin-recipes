@@ -1,3 +1,49 @@
+* {
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+}
+     
+.menu-container {
+       color: #fff;
+       background-color: #5995DA;  /* Blue */
+       padding: 20px 0;
+       display: flex;
+       justify-content: space-around;
+}
+     
+.menu {
+       border: 1px solid #fff;  /* For debugging */
+       width: 900px;
+       flex: 1;
+       display: flex;
+       /* justify-content: space-around; */
+}
+
+.menu div{
+       padding: 20px;
+       border: 2px;
+       flex:1;
+
+}
+
+
+
+
+
+/* leaning flex box above */
+
+
+
+
+
+
+
+
+
+
+
+
 .recipe{
        font-style: italic;
 }
